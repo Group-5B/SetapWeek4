@@ -10,3 +10,6 @@ Do you have any fav music genre that you'd wanna listen to in specific weather c
 
 Q: what kind of music do you usually listen when it's rainy? How about sunny?
 A: rainy days: happy, sunny days: classic
+
+Q: how many types of genres do you listen to?
+A: 3/4
