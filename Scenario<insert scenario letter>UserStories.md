@@ -6,4 +6,5 @@ no
 Would you find it useful to receive notifications or suggestions based on changing weather conditions?
 sure
 
-Sammy: not all people listen to all types of music? foe example, a person who likes metal might not like jazz. do you HAVE to listen to the music that is played or can you choose the genres you wanna listen to and the music would be filtered accordingly?
+Do you have any fav music genre that you'd wanna listen to in specific weather conditions?
+
